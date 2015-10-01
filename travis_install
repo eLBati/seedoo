@@ -10,6 +10,29 @@ sandbox/bin/pip install unidecode==0.04.17
 sandbox/bin/pip install python-magic==0.4.6
 sandbox/bin/pip install PyXB==1.2.4
 sandbox/bin/pip install pyPdf==1.13
+sandbox/bin/pip install babel==0.9.6
+sandbox/bin/pip install PIL==1.1.7
+sandbox/bin/pip install pywebdav==0.9.4.1
+sandbox/bin/pip install PyXML==0.8.4
+sandbox/bin/pip install pyyaml==3.10
+sandbox/bin/pip install werkzeug==0.8.3
+sandbox/bin/pip install zsi==2.0-rc3
+sandbox/bin/pip install feedparser==5.1.1
+sandbox/bin/pip install gdata==2.0.16
+sandbox/bin/pip install lxml==2.3.3
+sandbox/bin/pip install psycopg2==2.4.4
+sandbox/bin/pip install pydot==1.0.28
+sandbox/bin/pip install pyparsing==1.5.6
+sandbox/bin/pip install PyPDF2==1.22
+sandbox/bin/pip install python-dateutil==1.5
+sandbox/bin/pip install python-ldap==2.4.9
+sandbox/bin/pip install python-openid==2.2.5
+sandbox/bin/pip install python-magic==0.4.6
+sandbox/bin/pip install pytz==2012b
+sandbox/bin/pip install reportlab==2.5
+sandbox/bin/pip install vatnumber==1.0
+sandbox/bin/pip install vobject==0.8.1c
+sandbox/bin/pip install xlwt==0.7.3
 sandbox/bin/pip uninstall -y setuptools pip
 sandbox/bin/python bootstrap.py
 git config --global user.email admin@seedoo.it
